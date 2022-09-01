@@ -7,17 +7,17 @@ relaible open source iOS build system tailored for our scale.
 
 >  Bazel reduced build times by up to 4x in some cases. Bazel's build language,
 >  robust open source core, and extensibility model gives us full control over
->  the entire system including the build graph and execution.
+>  the entire system including the build graph and execution. -
 >  [@jerrymarino - Block via Getting Square's iOS build ready for Apple Silicon with Bazel](https://developer.squareup.com/blog/getting-squares-ios-build-ready-for-apple-silicon-with-bazel/)
 
 > Local developer issues are viewed as a symptom of a larger problem / an
-> opportunity to automate or improve existing systems - [ Maxwell Elliott and
+> opportunity to automate or improve existing systems - [Maxwell Elliott and
 > Connor Wybranowski - Tinder - Bazel Hermetic Toolchain and Tooling Migration
 ](https://medium.com/tinder/bazel-hermetic-toolchain-and-tooling-migration-c244dc0d3ae)
 
 > From the CI perspective, downloading artifacts from a remote cache offers
 > drastic reductions in builds that run through Bazel by avoiding duplicated
-> work [Matt Robionson - Reddit via iOS and Bazel at Reddit a
+> work - [Matt Robionson - Reddit via iOS and Bazel at Reddit a
 > Journey](https://www.reddit.com/r/RedditEng/comments/syz5dw/ios_and_bazel_at_reddit_a_journey/)
 
 ### Getting started
@@ -29,8 +29,8 @@ open-source-first principals and supporting a collaborative environment.
 
 ### Getting involved
 
-We'll be hosting our first annual conference on September 29th, 2022. [Send us you're talk proposals by EOW September 1st
-2022](https://github.com/bazel-ios/rules_ios/blob/master/docs/2022_bazel_ios_con.md).
+Our first annual conference will take place September 29th, 2022. [Send us your
+talk proposals by EOW September 1st 2022](https://github.com/bazel-ios/rules_ios/blob/master/docs/2022_bazel_ios_con.md).
 Official announcement and more info coming soon!
 
 ### Roadmap
