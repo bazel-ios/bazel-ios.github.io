@@ -17,7 +17,7 @@ relaible open source iOS build system tailored for our scale.
 
 > From the CI perspective, downloading artifacts from a remote cache offers
 > drastic reductions in builds that run through Bazel by avoiding duplicated
-> work - [Matt Robionson - Reddit via iOS and Bazel at Reddit a
+> work - [Matt Robinson - Reddit via iOS and Bazel at Reddit a
 > Journey](https://www.reddit.com/r/RedditEng/comments/syz5dw/ios_and_bazel_at_reddit_a_journey/)
 
 ### Getting started
