@@ -29,9 +29,7 @@ open-source-first principals and supporting a collaborative environment.
 
 ### Getting involved
 
-Our first annual conference will take place September 29th, 2022. [Send us your
-talk proposals by EOW September 1st 2022](https://github.com/bazel-ios/rules_ios/blob/master/docs/2022_bazel_ios_con.md).
-Official announcement and more info coming soon!
+Our first annual conference took place September 29th, 2022. We will post here about any future events.
 
 ### Roadmap
 
